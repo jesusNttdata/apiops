@@ -1,4 +1,4 @@
-apimServiceName: prod-apim-cicd
+apimServiceName: j-prod-apim-cicd
 namedValues:
 loggers:
 diagnostics:
